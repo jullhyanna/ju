@@ -1,5 +1,5 @@
 # ju
-``` mermaid stateDiagram-v2
+```mermaid stateDiagram-v2
     direction TB
     
     [*] --> E_STOP
